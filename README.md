@@ -110,12 +110,13 @@ A summary of the most significant findings and **actionable insights** derived f
 * Handling missing values & outliers.
 * Aggregating data for trend analysis.
 
-##   Repository Contents
+## Repository Contents
 
-* 📊 Screenshots of dashboard sections
+* 📊 Screenshots of dashboard sections (located in the `screenshots/` folder)
 * 📂 Power BI (.pbix) dashboard file
 * 📝 README (Project Overview & Instructions)
-* 📄 Sample Anonymized Dataset (if applicable)
+* 📄 Sample Anonymized Dataset (available via [this link](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/raw/main/Hospital%20ER_Data.csv))
+
 ## Screenshots
 ### Monthly View
 ![Hospital_emergency_1]![Hospital_emergency_1](https://github.com/user-attachments/assets/c5aaa476-9bfb-4ee6-b755-541fb46a8445)
