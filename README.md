@@ -118,13 +118,17 @@ A summary of the most significant findings and **actionable insights** derived f
 * 📄 Sample Anonymized Dataset (if applicable)
 ## Screenshots
 ### Monthly View
-![Hospital_emergency_1](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/blob/main/screenshots/Hospital_emergency_1.png)
+![Hospital_emergency_1]![Hospital_emergency_1](https://github.com/user-attachments/assets/c5aaa476-9bfb-4ee6-b755-541fb46a8445)
+
 
 ### Consolidated View
-![Hospital_emergency_2](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/blob/main/screenshots/Hospital_emergency_2.png)
+![Hospital_emergency_2]![Hospital_emergency_2](https://github.com/user-attachments/assets/034ccaf8-f276-409e-9b8e-3099abb949ff)
+
 
 ### Patient Details
-![Hospital_emergency_3](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/blob/main/screenshots/Hospital_emergency_3.png)
+![Hospital_emergency_3]![Hospital_emergency_3](https://github.com/user-attachments/assets/20d0054b-1240-4615-874f-eb36a2f87501)
+
 
 ### Key Takeaways
-![Hospital_emergency_4](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/blob/main/screenshots/Hospital_emergency_4.png)
+![Hospital_emergency_4]![Hospital_emergency_4](https://github.com/user-attachments/assets/3718fd67-1e00-4789-832a-8e3f2a45bcb0)
+
