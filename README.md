@@ -100,8 +100,9 @@ A summary of the most significant findings and **actionable insights** derived f
 
 #### **Data Source:**
 
-* Electronic Health Records (EHR) / Hospital Management System (HMS)  
-  - https://raw.githubusercontent.com/tanudhaka/Hospital_Emergency_Dashboard/refs/heads/main/Hospital%20ER_Data.csv
+* The dataset used in this project is available here:  
+  📂 [Download Dataset](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/raw/main/Hospital%20ER_Data.csv)
+
 
 ####   **Data Processing:**
 
