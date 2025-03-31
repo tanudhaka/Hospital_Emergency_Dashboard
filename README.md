@@ -98,9 +98,10 @@ A summary of the most significant findings and **actionable insights** derived f
 * DAX & Power Query (Data Transformation)
 * SQL (Data Extraction & Processing)
 
-####   **Data Source:**
+#### **Data Source:**
 
-* Electronic Health Records (EHR) / Hospital Management System (HMS)
+* Electronic Health Records (EHR) / Hospital Management System (HMS)  
+  - [Download Dataset](https://github.com/tanudhaka/Hospital_Emergency_Dashboard/raw/main/hospital_data.csv)  
 
 ####   **Data Processing:**
 
