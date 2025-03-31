@@ -119,16 +119,16 @@ A summary of the most significant findings and **actionable insights** derived f
 ## Screenshots
 
 ### Monthly View
-![Monthly View]![Hospital_emergency_1](https://github.com/user-attachments/assets/cde936ac-2256-4b00-b8ce-0e14ba51e98e)
+[Hospital_emergency_1](https://github.com/user-attachments/assets/cde936ac-2256-4b00-b8ce-0e14ba51e98e)
 
 
 ### Consolidated View
-![Consolidated View]![Hospital_emergency_2](https://github.com/user-attachments/assets/650747d3-1396-4b81-838d-26ddf7c6a50d)
+[Hospital_emergency_2](https://github.com/user-attachments/assets/650747d3-1396-4b81-838d-26ddf7c6a50d)
 
 
 ### Patient Details
-![Patient Details]![Hospital_emergency_3](https://github.com/user-attachments/assets/d03e6814-de82-4ade-82e6-cf152e3074a2)
+[Hospital_emergency_3](https://github.com/user-attachments/assets/d03e6814-de82-4ade-82e6-cf152e3074a2)
 
 
 ### Key Takeaways
-![Key Takeaways]![Hospital_emergency_4](https://github.com/user-attachments/assets/cd72e99d-7f42-4f6c-ac04-e15e246f9084)
+[Hospital_emergency_4](https://github.com/user-attachments/assets/cd72e99d-7f42-4f6c-ac04-e15e246f9084)
